@@ -1,7 +1,7 @@
 <?php
  /*
 Plugin Name: Louder petition
-Plugin URI: http://www.louder.com/plugins_wp.php
+Plugin URI: http://www.louder.org.uk/plugins_wp.php
 Description: Display Petition Tool from Louder campaign
 Version: 1.0 beta
 Author: Adam Sargant
