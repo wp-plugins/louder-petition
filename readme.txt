@@ -25,13 +25,13 @@ Louder is the new home for e-campaigning. The site draws together a range of onl
 == Screenshots ==
 
 1. The Louder petition backend, enter campaign slug to access petition tool.
-2. Petition display.
+2. Sample petition display.
 
 == Frequently Asked Questions ==
 
-= What is [Louder.org.uk](http://www.louder.org.uk) =
+= What is Louder.org.uk? =
 
-Louder is the new home for e-campaigning. This site draws together a range of online activist tools enabling you to create and run your own campaigns and connect with others.
+[Louder.org.uk](http://www.louder.org.uk) is the new home for e-campaigning. This site draws together a range of online activist tools enabling you to create and run your own campaigns and connect with others.
 
 == Changelog ==
 
