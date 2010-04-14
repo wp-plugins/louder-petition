@@ -3,7 +3,7 @@ Contributors: adamsargant
 Tags: campaigns, petition
 Requires at least: 2.0.2
 Tested up to: 2.9.2
-Stable tag: 4.3
+Stable tag: trunk
 
 A widget/plugin that uses the Louder.org.uk Developer's API to access a petition details and form from a Louder campaign
 
