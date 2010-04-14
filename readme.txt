@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: adamsargant
-Tags: campaigns, petition
+Tags: campaigns, petition, ecampaigning, louder
 Requires at least: 2.0.2
 Tested up to: 2.9.2
 Stable tag: trunk
